@@ -1,7 +1,7 @@
 pipeline {
 agent any
 environment {
-    DOCKER_USER = "sonali10"
+    DOCKER_USER = "atharv8329"
     KUBECONFIG = "/home/jenkins/.kube/config"
 }
 
